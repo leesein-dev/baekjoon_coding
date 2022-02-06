@@ -1,0 +1,1 @@
+print(70, 'leesein_dev', sep='\n')

@@ -1,0 +1,5 @@
+h, m, s = map(int, input().split())
+s += int(input()) + (h * 3600) + (m * 60)
+m, s = divmod(s, 60)
+h, m = divmod(m, 60)
+print(h % 24, m, s)

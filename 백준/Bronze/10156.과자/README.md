@@ -1,4 +1,4 @@
-# [Bronze IV] 고자 - 10156 
+# [Bronze IV] 과자 - 10156 
 
 [문제 링크](https://www.acmicpc.net/problem/10156) 
 

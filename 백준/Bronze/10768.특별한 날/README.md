@@ -1,4 +1,4 @@
-# [Bronze IV] 10부제 - 10797
+# [Bronze IV] 특별한 날 - 10768
 
 [문제 링크](https://www.acmicpc.net/problem/10768) 
 
